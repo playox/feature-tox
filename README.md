@@ -3,6 +3,7 @@ FeatureTox is a simple and powerful feature toggle library. Only a few lines of 
 
 [![Latest Stable Version](https://poser.pugx.org/playox/feature-tox/v/stable)](https://packagist.org/packages/playox/feature-tox)
 [![Testing FeatureTox](https://github.com/playox/feature-tox/actions/workflows/php.yml/badge.svg?branch=main)](https://github.com/playox/feature-tox/actions/workflows/php.yml)
+[![codecov](https://codecov.io/gh/playox/feature-tox/branch/main/graph/badge.svg?token=43Q42A9538)](https://codecov.io/gh/playox/feature-tox)
 [![Total Downloads](https://poser.pugx.org/playox/feature-tox/downloads)](https://packagist.org/packages/playox/feature-tox)
 [![License](https://poser.pugx.org/playox/feature-tox/license)](https://packagist.org/packages/playox/feature-tox)
 
